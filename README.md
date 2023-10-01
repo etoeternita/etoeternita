@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul aka Eto</h1>
 - 🌱 I’m currently learning **javascript**
 
-- 📫 How to reach me **dasginn@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eto.eternita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eto.eternita" height="30" width="40" /></a>
