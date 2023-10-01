@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ertuğrul aka Eto</h1>
+<h1 align="center">Hi, I'm Ertuğrul aka Eto</h1>
 - 🌱 I’m currently learning Javascript
 
 <h3 align="left">Connect with me:</h3>
