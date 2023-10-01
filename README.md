@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul aka Eto</h1>
-[![MasterHead](https://www.google.com/search?q=web+developer+photos&sca_esv=569833926&hl=tr&tbm=isch&sxsrf=AM9HkKnWjI5ac32sqI5ZLP-q54g-olSGDA:1696156964590&source=lnms&sa=X&ved=2ahUKEwjj4-2K1dSBAxVtVPEDHQz6DZgQ_AUoAXoECAEQAw&biw=1315&bih=730&dpr=1.25#imgrc=Jw7OnEbNfhnQRM)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etoeternita&label=Profile%20views&color=0e75b6&style=flat" alt="etoeternita" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etoeternita" alt="etoeternita" /></a> </p>
-
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **dasginn@hotmail.com**
